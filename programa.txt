@@ -1,0 +1,26 @@
+var a = 2.00
+var b = 3.00
+var c = 31.00
+var x= 65.00
+var k= "weare trying"
+add c a b
+div c a b
+add x k
+jump 7
+print a
+print a
+print a
+print a
+print a
+print a
+print a
+print a
+print b
+print c
+soma= a+b
+mult=a*c
+print mult
+print soma
+return x
+teste se x e primo 
+println x
